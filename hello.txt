@@ -16,5 +16,5 @@
 你好啊  git  kaishi
 你好啊  git  kaishi  github updata
 你好啊  git  kaishi  hot-fix test
-11111111111111111111111111111111
+1
 免密登录
